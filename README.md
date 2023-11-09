@@ -1,6 +1,7 @@
 # Simple-Text-Inpainting-System
 
-This is a course project of NLP (SI630) in UofM. Advisor: Prof.David Jurgens
+This is a course project of NLP (SI630) in UofM. Advisor: Prof.David Jurgens.
+
 For a detailed report about this project, see: [textinpaint.pdf](https://github.com/KolvacS-W/Simple-Text-Inpainting-System/files/13196700/textinpaint.pdf) and the provided code.
 
 In this work, we bring about the idea of text inpainting, and design a system for text inpainting task using simple easy sentences and zero shot learning. We demonstrate our method to get dataset and implement the system with limited time and resource, making use of LLM. We also conduct a set of evaluations.
